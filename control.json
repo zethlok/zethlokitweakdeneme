@@ -1,6 +1,6 @@
 {
- "v": 8,
- "ts": 1791142008,
+ "v": 9,
+ "ts": 1791142119,
  "ban": [
   "13528e0e",
   "372bb165",
@@ -8,8 +8,9 @@
  ],
  "kick": {
   "372bb165": 6,
-  "13528e0e": 4
+  "13528e0e": 4,
+  "ac85acfa": 9
  },
  "msg": "new",
- "sig": "6iKwDVmaSMXkZ8FPf-FPZ4CQx9Mrkby23t49dRGlRuZwB7RCQiMQln3fC7lXe6XCcki9Mmq5nbAUjjuV0ZtgBA"
+ "sig": "Gkc0lShKHyc2FTePjCBOZqhOYclsaKnFE8B9UtybxEnOFweqVb8FapXZH8ZSjDe7qcJzdtspHtIzfyjqPSKiCA"
 }
