@@ -1,14 +1,15 @@
 {
- "v": 7,
- "ts": 1791141912,
+ "v": 8,
+ "ts": 1791142008,
  "ban": [
   "13528e0e",
-  "372bb165"
+  "372bb165",
+  "ac85acfa"
  ],
  "kick": {
   "372bb165": 6,
   "13528e0e": 4
  },
  "msg": "new",
- "sig": "2nYtPC7gfaV2mBD8tFRwcDVcozn50zmrrE3mCkbn6QwrDMc0GvWwhNn7rvEFNC-bYa4zJm9W8NUQPxHmXdDOBw"
+ "sig": "6iKwDVmaSMXkZ8FPf-FPZ4CQx9Mrkby23t49dRGlRuZwB7RCQiMQln3fC7lXe6XCcki9Mmq5nbAUjjuV0ZtgBA"
 }
